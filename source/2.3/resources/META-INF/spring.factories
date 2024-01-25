@@ -1,0 +1,2 @@
+org.springframework.boot.context.config.ConfigDataLocationResolver=org.melior.cloud.config.CsxConfigDataLocationResolver
+org.springframework.boot.context.config.ConfigDataLoader=org.melior.cloud.config.CsxConfigDataLoader
